@@ -2,7 +2,7 @@
 
 RELEASE_FLAGS = -O2 -Wall -DNDEBUG
 DEBUG_FLAGS   = -g -O0 -Wall
-RELEASE_EXEC  = task1
+RELEASE_EXEC  = main
 DEBUG_EXEC    = main-dbg
 SOURCE        = main.cpp
 
